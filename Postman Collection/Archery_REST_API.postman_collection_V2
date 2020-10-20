@@ -537,7 +537,7 @@
 							"type": "text"
 						},
 						{
-							"key": "file",
+							"key": "filename",
 							"value": "",
 							"description": "",
 							"type": "file"
